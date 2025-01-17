@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+|  SyaNodes | https://docs.syanodes.my.id  | https://x.com/syanodes   | Indonesia   | https://github.com/SyaNodes   | syanodess@gmail.com   | .syanodes  | 95D69DCB858A2AC1AC8A8078B447EECCCE2989510887ECA4A244E505E7DC868E   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
